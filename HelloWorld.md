@@ -12,3 +12,9 @@ but the _em_pha**sis** is on the wrong __syl__a*ble*!
 > here is some blockquote stuff
 >
 > with two paragraphs
+
+- numbered
+- numbered2
+
++ numbered?
++ numberedtoo?
